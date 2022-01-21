@@ -3,7 +3,7 @@
 <!-- 
 **sabdulmajid/sabdulmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-#### My name is Shaikh Ayman Abdul-Majid, and I'm an aspiring software engineer!
+### My name is Shaikh Ayman Abdul-Majid, and I'm an aspiring software engineer!
 
 - 💪 Currently striving to get into Computer Science or Software Engineering at the <b>University of Waterloo</b>!
 - 📚 I’m currently learning a plethora of things (all at once!) - such as web development, game development and machine learning!
