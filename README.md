@@ -6,9 +6,9 @@
 ### My name is Shaikh Ayman Abdul-Majid, and I'm an aspiring software engineer!
 
 - 💪 Currently striving in Computer Science & Software Engineering <!-- at the <b>University of Waterloo</b>! -->
-- 📚 I’m currently learning a plethora of things (all at once!) - such as web development, game development and machine learning!
+- 📚 Learning a plethora of things (all at once!) - such as web development, game development and machine learning!
 - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/sabdulmajid), [Devpost](https://devpost.com/sabdulmajid), or [Email](mailto:aymanwebsite@outlook.com)
-- ⚡ Fun fact: I'm taking British-patterned A-levels - but I'm Canadian! 🍁🍁🍁
+- ⚡ Fun fact: Won 2nd place at Hack the Valley V 2021 hackathon! 🍁🍁🍁
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabdulmajid&layout=center">
