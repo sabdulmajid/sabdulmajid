@@ -8,7 +8,7 @@
 - 💪 Currently striving in Computer Science & Software Engineering <!-- at the <b>University of Waterloo</b>! -->
 - 📚 Learning a plethora of things (all at once!) - such as web development, game development and machine learning!
 - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/sabdulmajid), [Devpost](https://devpost.com/sabdulmajid), or [Email](mailto:aymanwebsite@outlook.com)
-- ⚡ Fun fact: Won 2nd place at Hack the Valley V 2021 hackathon! 🍁🍁🍁
+- ⚡ Fun fact: Won 2nd place at the Hack the Valley V 2021 hackathon! 🍁🍁🍁
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabdulmajid&layout=center">
