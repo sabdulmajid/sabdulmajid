@@ -5,7 +5,7 @@
 -->
 ### My name is Shaikh Ayman Abdul-Majid, and I'm an aspiring software engineer!
 
-- 💪 Currently striving to get into either Computer Science or Software Engineering at the <b>University of Waterloo</b>!
+- 💪 Incoming Software Engineering student at the <b>University of Waterloo</b>!
 - 📚 Learning a plethora of things (all at once!) - web development, game development and machine learning!
 - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/sabdulmajid), [Devpost](https://devpost.com/sabdulmajid), or [Email](mailto:aymanwebsite@outlook.com)
 - ⚡ Fun fact: won 2nd place at the Hack the Valley V 2021 hackathon! 🍁🍁🍁
