@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/Node.js-013220?style=for-the-badge&logo=node&logoColor=white" alt="NodeJS Badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2ba3ed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSC Badge"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-808080?style=for-the-badge&logo=unreal&logoColor=white" alt="Unity Badge"/>
-  <img src="https://img.shields.io/badge/Figma-459942?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 </div>
 </p>
 <p align="center">
