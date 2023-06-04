@@ -14,7 +14,7 @@
 
 
 <h3 align="center">
- Contact Information 👇
+ Contact Information
 </h3>
 <p>
 <div id="badges" align="center">
