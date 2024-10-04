@@ -53,12 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabdulmajid&layout=compact&hide=scss,css,html&langs_count=6&size_weight=0.3&count_weight=0.7">
 </p>
 
-<p align="center">
- <a href="https://github-readme-streak-stats.herokuapp.com/?user=sabdulmajid&theme=dark">
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=sabdulmajid&theme=dark' alt='Github stats' />
- </a>
-<p>
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabdulmajid&&show_icons=true&title_color=eeeeee&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github stats" width="35%">
 </p> -->
