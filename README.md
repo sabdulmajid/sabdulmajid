@@ -3,10 +3,10 @@
 <!-- 
 **sabdulmajid/sabdulmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### My name is Shaikh Ayman Abdul-Majid, and I'm an aspiring software engineer!
+### My name is Shaikh Ayman Abdul-Majid, and I'm a software engineer!
 
 - 💪 Software Engineering student at the <b>University of Waterloo</b>!
-- 📚 Learning a plethora of things (all at once!) - web development, game development and machine learning!
+- 📚 Working on a plethora of things - distributed systems, machine learning, and data engineering!
 - ⚡ Fun fact: won 2nd place at the Hack the Valley V hackathon! 🍁🍁🍁
 <!-- - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/sabdulmajid), [Devpost](https://devpost.com/sabdulmajid), or [Email](mailto:aymanwebsite@outlook.com) -->
 
@@ -52,6 +52,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabdulmajid&layout=compact&hide=scss,css,html&langs_count=6&size_weight=0.3&count_weight=0.7">
 </p>
+
+![code_heatmap](https://github.com/user-attachments/assets/f8ed5ac2-54a3-4422-86ae-ce5b3bd552f5)
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabdulmajid&&show_icons=true&title_color=eeeeee&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github stats" width="35%">
