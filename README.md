@@ -55,6 +55,8 @@
 
 ![code_heatmap](https://github.com/user-attachments/assets/f8ed5ac2-54a3-4422-86ae-ce5b3bd552f5)
 
+![code_heatmap_2025](https://github.com/user-attachments/assets/68cd6def-0a70-4512-8e7b-e1ee3433d715)
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabdulmajid&&show_icons=true&title_color=eeeeee&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github stats" width="35%">
