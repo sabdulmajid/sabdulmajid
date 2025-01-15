@@ -18,13 +18,13 @@
 </h3>
 <p>
 <div id="badges" align="center">
-  <a href="https://devpost.com/sabdulmajid">
+<!--   <a href="https://devpost.com/sabdulmajid">
     <img src="https://img.shields.io/badge/Devpost-f538ad?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge"/>
-  </a>
+  </a> -->
   <a href="mailto:aymanwebsite@outlook.com">
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email Badge"/>
    </a>
-  <a href="https://iamayman.co/">
+  <a href="https://aymanam.tech/">
     <img src="https://img.shields.io/badge/Personal%20Portfolio-DB4437?style=for-the-badge" alt="Personal Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/sabdulmajid/">
