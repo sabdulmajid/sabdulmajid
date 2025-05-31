@@ -6,7 +6,7 @@
 ### My name is Ayman, and I'm a software engineer @ Tesla Autopilot!
 
 - 📖 Software Engineering student at the **University of Waterloo**!
-- 🚗 Working at **Tesla Autopilot** on the Full-Self Driving (FSD) team, and previously worked on engineering **Tesla Optimus**.
+- 🚗 Working at **Tesla Autopilot** on the Full-Self Driving (FSD) team, and previously worked on **Tesla Optimus**.
 - 💻 I've also worked at **Ford**, **II&RC**, and **ZNotes**.
 - 📚 Learning a plethora of things - distributed systems, machine learning, and data engineering!
 - ⚡ Fun fact: won 2nd place at the Hack the Valley V hackathon! 🍁🍁🍁
