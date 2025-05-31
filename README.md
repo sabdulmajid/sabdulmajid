@@ -3,10 +3,12 @@
 <!-- 
 **sabdulmajid/sabdulmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### My name is Shaikh Ayman Abdul-Majid, and I'm a software engineer!
+### My name is Ayman, and I'm a software engineer @ Tesla Autopilot!
 
-- 💪 Software Engineering student at the <b>University of Waterloo</b>!
-- 📚 Working on a plethora of things - distributed systems, machine learning, and data engineering!
+- 📖 Software Engineering student at the **University of Waterloo**!
+- 🚗 Working at **Tesla Autopilot** on the Full-Self Driving (FSD) team, and previously worked on engineering **Tesla Optimus**.
+- 💻 I've also worked at **Ford**, **II&RC**, and **ZNotes**.
+- 📚 Learning a plethora of things - distributed systems, machine learning, and data engineering!
 - ⚡ Fun fact: won 2nd place at the Hack the Valley V hackathon! 🍁🍁🍁
 <!-- - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/sabdulmajid), [Devpost](https://devpost.com/sabdulmajid), or [Email](mailto:aymanwebsite@outlook.com) -->
 
@@ -55,7 +57,8 @@
 
 ![code_heatmap](https://github.com/user-attachments/assets/f8ed5ac2-54a3-4422-86ae-ce5b3bd552f5)
 
-![code_heatmap_2025](https://github.com/user-attachments/assets/9af30f3d-f206-4bd4-b3a1-40778958f003)
+![code_heatmap_2025](https://github.com/user-attachments/assets/81c7c692-6c9f-4202-ad40-50970db7d503)
+
 
 
 
