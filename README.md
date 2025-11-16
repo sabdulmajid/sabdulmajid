@@ -55,9 +55,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabdulmajid&layout=compact&hide=scss,css,html&langs_count=6&size_weight=0.3&count_weight=0.7">
 </p>
 
-![code_heatmap](https://github.com/user-attachments/assets/f8ed5ac2-54a3-4422-86ae-ce5b3bd552f5)
+<img width="1222" height="261" alt="image" src="https://github.com/user-attachments/assets/62cfe2bb-c12d-4a66-80ae-492da7ec89ba" />
 
-![code_heatmap_2025](https://github.com/user-attachments/assets/81c7c692-6c9f-4202-ad40-50970db7d503)
 
 
 
